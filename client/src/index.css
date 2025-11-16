@@ -1,0 +1,10 @@
+.grad_text{
+    background: linear-gradient(120deg,#5659f3 30%,#0ea7df 50%);
+    background-clip:text;
+    color:transparent; 
+}
+.grad_bg{
+    background: linear-gradient(120deg,#5659f3 30%,#0e85df 90%);
+    /* background-clip:text;
+    color:transparent;  */
+}
