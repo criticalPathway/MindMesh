@@ -1,8 +1,5 @@
 # Cryptofolio
 
-Website:-https://fd0092d9.mobsted.com/pwa/?appid=16
-
-
 Welcome to the Virtual CryptoTrading React App! This project aims to provide a realistic and interactive virtual cryptocurrency trading experience for users. With this app, users can simulate buying and selling cryptocurrencies, track their portfolio performance, and learn about the dynamics of the cryptocurrency market.
 
 ## Features
@@ -58,10 +55,6 @@ React Router: A library for routing in React applications.
 Tradeview API: to display a real-time chart, a website might reach out with a TradingView API 
 
 API Name: The app utilizes an API to fetch real-time cryptocurrency data. (Specify the name and any other details about the API you are using)
-
-
-
-https://github.com/jynt1401/Cryptofolio_fullStack/assets/100084399/7ff597f0-fe8d-49e4-a433-15dec2a4af83
 
 
 
